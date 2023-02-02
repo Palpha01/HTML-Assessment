@@ -1,2 +1,17 @@
 Index
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Introduction</title>
+    </head>
+    <body>
+        <!--comment-->
+        <h1>Heading</h1>
+        <h2>Sub-Heading</h2>
+        <p>Is <strong>cereal</strong> a <em>soup</em>?</p>
+        <p><a href="">Soup</a> is a liquid food of fruits, meat, and veggies. <a  href="https://google.com" target="_blank">Cereal</a> is a traditional breakfast food served with processed resources</p>
+        <h3>Sub Heading 1</h3>
+        <h4>Sub Heading 2</h4>
+    </body>
+</html>
